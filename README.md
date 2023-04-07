@@ -2,6 +2,8 @@ Some of my other projects are on my github organization
 
 https://github.com/RSGL
 
+[A very cool C binding for the Cocoa API that I did minor work on](https://github.com/EimaMei/Silicon)
+
 Contacts:
 
 - email : colleagueRiley@gmail.com
