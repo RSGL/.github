@@ -4,6 +4,8 @@ https://github.com/RSGL
 
 [A very cool C binding for the Cocoa API that I did minor work on](https://github.com/EimaMei/Silicon)
 
+[A C toolchain library that aims at modernizing C without becoming bloatware nor infringing on C's elegance (not written by me)](https://github.com/EimaMei/sili-toolchain)
+
 Contacts:
 
 - email : colleagueRiley@gmail.com
