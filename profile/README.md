@@ -39,3 +39,14 @@ This organization serves as the central hub for community-driven projects, forks
 
 ## Why 'RSGL' ?
 Many of these projects are offshoots from my original project, RSGL, which has changed form many times. It started as a generic GUI library for creating apps and games, but now many of these aspects have been stripped from RSGL and became their own focused libraries. Now RSGL is a simple graphics library, that *can* be used alongside the other libraries in the sweet. 
+
+## Contact & Support
+
+If you want to be invited to this organization, feel free to reach out and ask!
+
+- **Email:** [colleagueRiley@gmail.com](mailto:colleagueRiley@gmail.com) | [RileyMabb@outlook.com](mailto:RileyMabb@outlook.com)  
+- **BlueSky:** [colleagueriley.bsky.social](https://bsky.app/profile/colleagueriley.bsky.social)  
+- **Twitter/X:** [@ColleagueRiley](https://x.com/ColleagueRiley)  
+- **Discord:** ColleagueRiley  
+- **Discord Server:** [![Discord](https://img.shields.io/discord/829003376532258816.svg?label=Discord&logo=discord)](https://discord.gg/pXVNgVVbvh)  
+
