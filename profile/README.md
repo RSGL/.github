@@ -35,6 +35,6 @@
 
 GitHub organization for The RSGL Suite Community and related projects.
 
-This organization serves as the central hub for community-driven projects, forks, bindings, and custom tools related to the RSGL Suite libraries.
+This organization serves as the central hub for community-driven projects, forks, bindings, and custom tools related to the RSGL Suite.
 
 
