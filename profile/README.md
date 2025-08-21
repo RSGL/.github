@@ -1,4 +1,4 @@
-## RSGL Suite
+## Hedgehogsoft (RSGL Suite)
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
 <a href="https://github.com/ColleagueRiley/RSGL" target="_blank" rel="noopener noreferrer" style="display: inline-block; border: 2px solid #0366d6; border-radius: 12px; padding: 8px;">
@@ -37,7 +37,7 @@ GitHub organization for The RSGL Suite Community and related projects.
 
 This organization serves as the central hub for community-driven projects, forks, bindings, and custom tools related to the RSGL Suite.
 
-## Why 'RSGL' ?
+## Why 'RSGL' suite ?
 Many of these projects are offshoots from my original project, RSGL, which has changed form many times. It started as a generic GUI library for creating apps and games, but now many of these aspects have been stripped from RSGL and became their own focused libraries. Now RSGL is a simple graphics library, that *can* be used alongside the other libraries in the suite. 
 
 ## Contact & Support
