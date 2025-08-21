@@ -44,9 +44,6 @@ Many of these projects are offshoots from my original project, RSGL, which has c
 
 If you want to be invited to this organization, feel free to reach out and ask!
 
-- **Email:** [colleagueRiley@gmail.com](mailto:colleagueRiley@gmail.com) | [RileyMabb@outlook.com](mailto:RileyMabb@outlook.com)  
-- **BlueSky:** [colleagueriley.bsky.social](https://bsky.app/profile/colleagueriley.bsky.social)  
-- **Twitter/X:** [@ColleagueRiley](https://x.com/ColleagueRiley)  
-- **Discord:** ColleagueRiley  
+- **Email:** support@hedgehogsoft.com
 - **Discord Server:** [![Discord](https://img.shields.io/discord/829003376532258816.svg?label=Discord&logo=discord)](https://discord.gg/pXVNgVVbvh)  
 
