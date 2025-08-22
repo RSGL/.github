@@ -1,4 +1,4 @@
-## Hedgehogsoft (RSGL Suite)
+## Hedgehogsoft: RSGL Suite
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
 <a href="https://github.com/ColleagueRiley/RSGL" target="_blank" rel="noopener noreferrer" style="display: inline-block; border: 2px solid #0366d6; border-radius: 12px; padding: 8px;">
@@ -33,7 +33,7 @@
 
 ## About
 
-GitHub organization for The RSGL Suite Community and related projects.
+GitHub organization for Hedgehogsoft and The RSGL Suite Community and related projects.
 
 This organization serves as the central hub for community-driven projects, forks, bindings, and custom tools related to the RSGL Suite.
 
